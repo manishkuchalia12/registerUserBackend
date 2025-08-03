@@ -46,7 +46,7 @@ json
   "email": "anjali@example.com",
   "role": "volunteer"
 }
-📸 Response:
+Response:
 json
 {
    "_id": "64f2c1e7b9d47a1a92a44f1c",
