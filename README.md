@@ -23,7 +23,6 @@ Postman API Docs
 I'll also create a Postman collection and send you a downloadable .json file you can import in Postman. Here's what it will include:
 
 POST /api/users/register – Register intern/volunteer
-
 GET /api/users – View all users
 ----
 
