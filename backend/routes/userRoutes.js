@@ -6,3 +6,4 @@ router.post('/register', registerUser);
 router.get('/', getUsers);
 
 module.exports = router;
+
